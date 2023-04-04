@@ -1,0 +1,26 @@
+*{
+
+}
+.listvideo{
+    background-image: url('https://scr.vn/wp-content/uploads/2020/07/white-background-%C4%91%E1%BA%B9p.jpg');
+}
+.col-md-12 button{
+    list-style: none;
+    display: inline-block;
+    background: #333;
+    color: #fff;
+    /* padding: 10px 15px;
+    margin-right: 10px; */
+}
+.col-md-12 button:hover {
+    background:red;
+}
+.container button{
+    list-style: none;
+    display: inline-block;
+    background: #333;
+    color: #fff;
+}
+.container button:hover {
+    background:red;
+}
